@@ -8,17 +8,17 @@
   "theme_color": "#f97316",
   "orientation": "portrait-primary",
   "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/3050/3050525.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/3050/3050525.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
+  {
+    "src": "icons/logo_ddanez_transparente.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "icons/logo_ddanez_transparente.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+],
   "categories": ["business", "productivity", "finance"],
   "shortcuts": [
     {
